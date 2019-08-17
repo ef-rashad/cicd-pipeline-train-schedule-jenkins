@@ -13,7 +13,3 @@ You can run the app with:
     ./gradlew npm_start
 
 Once it is running, you can access it in a browser at [http://localhost:3000](http://localhost:3000)
-
-### Update 1 - Jenkins Git Hook Test
-### Update 2 - Jenkins Git Hook Test
-### Update 3 - Jenkins Git Hook Test
